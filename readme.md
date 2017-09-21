@@ -1,6 +1,6 @@
 # Coding Os project  
   Task
-  - [ ] Ch2
+  - [x] Ch2
   - [ ] Ch3
   - [ ] Ch4
   - [ ] Ch5
